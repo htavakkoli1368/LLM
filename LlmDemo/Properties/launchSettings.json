@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LlmDemo": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "GROQ_API_KEY": "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"
+      }
+    }
+  }
+}
